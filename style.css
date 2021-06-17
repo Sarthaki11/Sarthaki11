@@ -1,0 +1,13 @@
+body {
+  text-align:center;
+  font-size:25px;
+}
+.menu {
+    list-style: none;
+    font-family: cursive;
+    float:right;
+    top:15px;
+    right: 30px;
+    cursor: pointer;
+    color: aliceblue;
+}
